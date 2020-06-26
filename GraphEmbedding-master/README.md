@@ -20,16 +20,6 @@ python setup.py install
 cd examples
 python deepwalk_wiki.py
 ```
-# DisscussionGroup
-- 公众号：**浅梦的学习笔记**    wechat ID: **deepctrbot**
-![wechat](./pics/weichennote.png)
-# Usage
-The design and implementation follows simple principles(**graph in,embedding out**) as much as possible.
-## Input format
-we use `networkx`to create graphs.The input of networkx graph is as follows:
-`node1 node2 <edge_weight>`
-
-![](./pics/edge_list.png)
 ## DeepWalk
 
 ```python
