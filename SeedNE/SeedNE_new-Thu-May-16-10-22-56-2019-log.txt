@@ -1,0 +1,122 @@
+epochs:0 classification: lu=0.000060
+{'micro': 0.2785977859778598, 'macro': 0.06850047687384682}
+epochs:50 classification: lu=0.000158
+{'micro': 0.2822878228782288, 'macro': 0.07195521844258224}
+epochs:100 classification: lu=0.000358
+{'micro': 0.2859778597785978, 'macro': 0.06983151308929257}
+epochs:150 classification: lu=0.000694
+{'micro': 0.2859778597785978, 'macro': 0.09876533200730632}
+epochs:200 classification: lu=0.001174
+{'micro': 0.2988929889298893, 'macro': 0.12952317050485448}
+epochs:250 classification: lu=0.001794
+{'micro': 0.3413284132841328, 'macro': 0.21450357383756186}
+epochs:300 classification: lu=0.002550
+{'micro': 0.3671586715867159, 'macro': 0.2536859053398447}
+epochs:350 classification: lu=0.003436
+{'micro': 0.4188191881918819, 'macro': 0.3149743902523238}
+epochs:400 classification: lu=0.004444
+{'micro': 0.45940959409594095, 'macro': 0.3723003901798853}
+epochs:450 classification: lu=0.005569
+{'micro': 0.4907749077490775, 'macro': 0.42656200467664446}
+epochs:500 classification: lu=0.006803
+{'micro': 0.5479704797047971, 'macro': 0.5042928365772321}
+epochs:550 classification: lu=0.017751
+{'micro': 0.5959409594095941, 'macro': 0.5538772458336375}
+epochs:600 classification: lu=0.022074
+{'micro': 0.6236162361623616, 'macro': 0.5963519399272031}
+epochs:650 classification: lu=0.026341
+{'micro': 0.6328413284132841, 'macro': 0.6097341535116527}
+epochs:700 classification: lu=0.030622
+{'micro': 0.6494464944649446, 'macro': 0.637801756110664}
+epochs:750 classification: lu=0.034949
+{'micro': 0.6771217712177122, 'macro': 0.6725625447311542}
+epochs:800 classification: lu=0.039336
+{'micro': 0.6863468634686347, 'macro': 0.6772043014497378}
+epochs:850 classification: lu=0.043792
+{'micro': 0.6863468634686347, 'macro': 0.6737039273675839}
+epochs:900 classification: lu=0.048320
+{'micro': 0.7066420664206642, 'macro': 0.700519980423128}
+epochs:950 classification: lu=0.052921
+{'micro': 0.7195571955719557, 'macro': 0.7140467457224571}
+epochs:1000 classification: lu=0.057594
+{'micro': 0.7195571955719557, 'macro': 0.7207878899106726}
+epochs:1050 classification: lu=0.130687
+{'micro': 0.7306273062730626, 'macro': 0.7272442205276819}
+epochs:1100 classification: lu=0.146152
+{'micro': 0.7158671586715867, 'macro': 0.7133886055947407}
+epochs:1150 classification: lu=0.160722
+{'micro': 0.7195571955719557, 'macro': 0.7161421501674943}
+epochs:1200 classification: lu=0.174718
+{'micro': 0.7361623616236163, 'macro': 0.728044896527867}
+epochs:1250 classification: lu=0.188321
+{'micro': 0.7398523985239852, 'macro': 0.7350361315979287}
+epochs:1300 classification: lu=0.201641
+{'micro': 0.7453874538745388, 'macro': 0.7395796673990936}
+epochs:1350 classification: lu=0.214752
+{'micro': 0.7527675276752768, 'macro': 0.7465980646002996}
+epochs:1400 classification: lu=0.227703
+{'micro': 0.7509225092250923, 'macro': 0.7479922858045389}
+epochs:1450 classification: lu=0.240529
+{'micro': 0.7453874538745388, 'macro': 0.7419422931944286}
+epochs:1500 classification: lu=0.253255
+{'micro': 0.7490774907749077, 'macro': 0.7448232270587523}
+epochs:1550 classification: lu=0.548421
+{'micro': 0.7509225092250923, 'macro': 0.7503365547402462}
+epochs:1600 classification: lu=0.589594
+{'micro': 0.7527675276752768, 'macro': 0.7520096401573901}
+epochs:1650 classification: lu=0.627689
+{'micro': 0.7619926199261994, 'macro': 0.7628994220110555}
+epochs:1700 classification: lu=0.663649
+{'micro': 0.7490774907749077, 'macro': 0.7500061425979652}
+epochs:1750 classification: lu=0.698031
+{'micro': 0.7472324723247232, 'macro': 0.7439663155965865}
+epochs:1800 classification: lu=0.731193
+{'micro': 0.7546125461254612, 'macro': 0.7541485702586561}
+epochs:1850 classification: lu=0.763377
+{'micro': 0.7583025830258303, 'macro': 0.7554609583335405}
+epochs:1900 classification: lu=0.794757
+{'micro': 0.7509225092250923, 'macro': 0.7498051200926413}
+epochs:1950 classification: lu=0.825462
+{'micro': 0.7583025830258303, 'macro': 0.7559174761977818}
+epochs:2000 classification: lu=0.855588
+{'micro': 0.7619926199261994, 'macro': 0.7585814246052596}
+epochs:2050 classification: lu=1.000000
+{'micro': 0.7675276752767528, 'macro': 0.7649502035264071}
+epochs:2100 classification: lu=1.000000
+{'micro': 0.7749077490774909, 'macro': 0.7737038154882071}
+epochs:2150 classification: lu=1.000000
+{'micro': 0.7675276752767528, 'macro': 0.7665576408782517}
+epochs:2200 classification: lu=1.000000
+{'micro': 0.7638376383763837, 'macro': 0.7618826173852077}
+epochs:2250 classification: lu=1.000000
+{'micro': 0.7749077490774909, 'macro': 0.7735736948169745}
+epochs:2300 classification: lu=1.000000
+{'micro': 0.7785977859778597, 'macro': 0.7783498646190373}
+epochs:2350 classification: lu=1.000000
+{'micro': 0.7804428044280443, 'macro': 0.7792573903556181}
+epochs:2400 classification: lu=1.000000
+{'micro': 0.7767527675276754, 'macro': 0.776826896332767}
+epochs:2450 classification: lu=1.000000
+{'micro': 0.7693726937269372, 'macro': 0.7657317811865519}
+epochs:2500 classification: lu=1.000000
+{'micro': 0.7675276752767528, 'macro': 0.7642824666386961}
+epochs:2550 classification: lu=1.000000
+{'micro': 0.7693726937269372, 'macro': 0.768994749491064}
+epochs:2600 classification: lu=1.000000
+{'micro': 0.7638376383763837, 'macro': 0.7603015996954393}
+epochs:2650 classification: lu=1.000000
+{'micro': 0.7546125461254612, 'macro': 0.751266154732636}
+epochs:2700 classification: lu=1.000000
+{'micro': 0.7619926199261994, 'macro': 0.7590821372309694}
+epochs:2750 classification: lu=1.000000
+{'micro': 0.7583025830258303, 'macro': 0.7570885676887835}
+epochs:2800 classification: lu=1.000000
+{'micro': 0.7601476014760148, 'macro': 0.7586126589354115}
+epochs:2850 classification: lu=1.000000
+{'micro': 0.7638376383763837, 'macro': 0.7619264459649554}
+epochs:2900 classification: lu=1.000000
+{'micro': 0.7601476014760148, 'macro': 0.7560607557097763}
+epochs:2950 classification: lu=1.000000
+{'micro': 0.7693726937269372, 'macro': 0.7661632547992069}
+epochs:2999 classification: lu=1.000000
+{'micro': 0.7693726937269372, 'macro': 0.7650767579438499}
